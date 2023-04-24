@@ -42,8 +42,8 @@
 
 🔗 &nbsp;**Связь со мной:**
 <div align="left">
-  <a href="https://www.linkedin.com/in/mikhail-tatsenko/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
-  <a href="https://twitter.com/mike_tatsenko"><img src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/mikhail-tatsenko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://twitter.com/mike_tatsenko"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
 ###
