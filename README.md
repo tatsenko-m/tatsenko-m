@@ -1,4 +1,7 @@
-### Привет всем, меня зовут Михаил <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></picture>
+# Привет всем, меня зовут Михаил <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></picture>
+
+<picture><img src="https://raw.githubusercontent.com/tatsenko-m/tatsenko-m/main/gh-banner-image.png" alt="banner that says Mikhail Tatsenko - Front-end Developer"></picture>
+
 - 🔭 В настоящее время я работаю над учебными проектами в Яндекс Практикуме
 - 🌱 Сейчас я изучаю инструменты Front-end разработки
 - 🎯 Стремлюсь к работе над полноценными боевыми проектами
