@@ -50,10 +50,10 @@
 
 📊 &nbsp;**Моя статистика:**
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=tatsenko-m&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=tatsenko-m&hide=contribs&show_icons=true" />
+<a href="https://github-readme-stats-sigma-five.vercel.app/api?username=tatsenko-m&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tatsenko-m&hide=contribs&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsenko-m&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatsenko-m&layout=compact" />
+<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tatsenko-m&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tatsenko-m&layout=compact" />
 </a>
 </div>
