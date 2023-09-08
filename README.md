@@ -3,7 +3,7 @@
 <picture><img src="https://raw.githubusercontent.com/tatsenko-m/tatsenko-m/main/gh-banner-image.png" alt="banner that says Mikhail Tatsenko - Front-end Developer"></picture>
 
 - 🔭 В настоящее время я работаю над учебными проектами в Яндекс Практикуме
-- 🌱 Сейчас я изучаю инструменты Front-end разработки
+- 🌱 Сейчас я изучаю инструменты Front-end и Back-end разработки
 - 🎯 Стремлюсь к работе над полноценными боевыми проектами
 - 💻 Хочу, чтобы мой код был читабельным и понятным другим разработчикам 
 - ⚡ Fun fact: I ❤️🏂
@@ -27,14 +27,26 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" width="42" alt="webpack logo"  />
   </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" width="42" alt="babel logo"  />
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://icongr.am/devicon/express-original.svg" height="30" width="42" alt="expressjs logo"  />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg" height="30" width="42" alt="mongodb logo"  />
+  </a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="https://icongr.am/devicon/nginx-original.svg" height="30" width="42" alt="nginx logo"  />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" width="42" alt="postman logo"  />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" height="30" width="42" alt="figma logo"  />
   </a>
 </div>
 
