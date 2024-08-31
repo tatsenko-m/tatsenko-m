@@ -2,12 +2,6 @@
 
 <picture><img src="https://raw.githubusercontent.com/tatsenko-m/tatsenko-m/main/gh-banner-image.png" alt="banner that says Mikhail Tatsenko - Front-end Developer"></picture>
 
-- 🔭 В настоящее время я работаю над учебными проектами в Яндекс Практикуме
-- 🌱 Сейчас я изучаю инструменты Front-end и Back-end разработки
-- 🎯 Стремлюсь к работе над полноценными боевыми проектами
-- 💻 Хочу, чтобы мой код был читабельным и понятным другим разработчикам 
-- ⚡ Fun fact: I ❤️🏂
-
 ###
 
 🛠️ &nbsp;**Мой стек:**
@@ -55,8 +49,6 @@
 🔗 &nbsp;**Связь со мной:**
 <div align="left">
   <a href="https://www.linkedin.com/in/mikhail-tatsenko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="https://career.habr.com/tatsenko-m"><img src="https://img.shields.io/badge/-Habr%20Career-65a3be?style=for-the-badge&logo=Habr&logoColor=white" alt="Habr Career"></a>
-  <a href="https://twitter.com/mike_tatsenko"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </div>
 
 ###
